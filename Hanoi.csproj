@@ -322,6 +322,7 @@
     <Compile Include="Assets\scripts\HanoiSolver.cs" />
     <Compile Include="Assets\scripts\Pin.cs" />
     <Compile Include="Assets\scripts\PinController.cs" />
+    <Compile Include="Assets\scripts\TextViewer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\AutoSave\ReadMe.txt" />
